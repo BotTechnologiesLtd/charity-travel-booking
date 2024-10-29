@@ -59,5 +59,15 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
     padding: 1rem;
+}
+footer a {
+    color: #4ea0e4;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
